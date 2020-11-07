@@ -10320,6 +10320,11 @@ a.text-dark:focus {
   color: red;
   font-size: 70px;
 }
+#questioncookie h1{
+  color: black;
+  font-size: 20px;
+}
+
 
 #questionGDPR{
   color: yellow;
