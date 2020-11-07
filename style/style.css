@@ -10315,16 +10315,11 @@ a.text-dark:focus {
 .facecBody {
   background-image: url("../image/EUmap.jpg");
 }
-#questioncookie {
-  color: black;
-  font-size: 20px;
-}
-
-#questionGDPR {
-  color: yellow;
-}
 li {
   padding-left: 20px;
+}
+#questionGDPR {
+  color: yellow;
 }
 
 /*# sourceMappingURL=style.css.map */
