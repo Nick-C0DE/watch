@@ -10313,7 +10313,8 @@ a.text-dark:focus {
   background-image: url("../image/mask.png");
 }
 .facecBody {
-  background-image: url("../image/EUmap.jpg");
+  /* background-image: url("../image/EUmap.jpg"); */
+  background-color: black;
 }
 li {
   padding-left: 20px;
